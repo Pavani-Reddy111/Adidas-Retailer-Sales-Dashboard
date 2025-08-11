@@ -16,8 +16,7 @@ This Power BI dashboard analyzes Adidas retailer sales performance across region
 - `/screenshots` → Dashboard preview images
 
 ## 📷 Preview:
-![Dashboard Overview](<img width="760" height="424" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/e7791c0b-fc8c-430e-b6ce-500e4558aebf" />
-)
+![Dashboard Overview]("C:\Users\Dell\Pictures\Screenshots\dashboard overview.png.png")
 
 ## 📊 Data Source:
 Sample dataset from [kaggle] containing sales transactions.
